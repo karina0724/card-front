@@ -8,14 +8,6 @@ Interfaz web para la gestión de tarjetas de crédito, conectada a la API RESTfu
 
 ![Descripción](./src/assets/List.png)
 
-![Descripción](./src/assets/Edit.png)
-
-![Descripción](./src/assets/Validations.png)
-
-![Descripción](./src/assets/Filter.png)
-
-![Descripción](./src/assets/ErrorMessages.png)
-
 ---
 
 ## ⚙️ Tecnologías utilizadas
